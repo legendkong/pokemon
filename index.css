@@ -1,0 +1,19 @@
+div {
+   display: inline-block;
+   text-align: center;
+}
+
+img{
+   display: block;
+}
+
+#head {
+   display: flex;
+   align-items: center;
+   
+}
+
+#headimg {
+   width: 5cm;
+   align-items: center;
+}
